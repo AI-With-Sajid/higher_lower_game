@@ -13,5 +13,6 @@ Welcome to the Higher Lower Game! This Python-based game challenges players to g
 - Replit module
 - ASCII art
 
-![Higher_lower_Game]([https://github.com/AI-With-Sajid/higher_lower_game/blob/main/output.png])
+![Higher_lower_Game](https://github.com/AI-With-Sajid/higher_lower_game/raw/main/output.png)
+
 
