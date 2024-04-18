@@ -12,3 +12,7 @@ Welcome to the Higher Lower Game! This Python-based game challenges players to g
 - Random module
 - Replit module
 - ASCII art
+
+![Hangman Screenshot]([https://github.com/AI-With-Sajid/Hangman/blob/main/hangman_game_start.png](https://github.com/AI-With-Sajid/higher_lower_game/blob/main/output.png
+)
+
